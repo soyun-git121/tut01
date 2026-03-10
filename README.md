@@ -33,6 +33,7 @@ def greet(name):
 ### 링크와 이미지
 
 [Google로 가기]: https://google.com
+
 ![귀여운 고양이 이미지](Users/sypar/Downloads/다운로드 (2).jpeg)
 
 ### 할 일 목록 
