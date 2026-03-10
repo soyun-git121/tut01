@@ -33,7 +33,7 @@ def greet(name):
 ### 링크와 이미지
 
 [Google로 가기]: https://google.com
-![Alt text](C:\Users\sypar\Downloads\다운로드 (2).jpeg "귀여운 고양이 이미지: ")
+![Alt text](\Users\sypar\Downloads\다운로드 (2).jpeg "귀여운 고양이 이미지: ")
 
 ### 할 일 목록 
 - [ ] 깃헙 계정 만들기 
